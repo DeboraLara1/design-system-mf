@@ -12,7 +12,6 @@ module.exports = withModuleFederationPlugin({
     "./ModalEdit": "./src/app/components/modaledit/modaledit.component.ts",
     "./ModalDelete": "./src/app/components/modaldeletecliente/modaldeletecliente.component.ts",
     "./Menu": "./src/app/components/menu/menu.component.ts",
-    "./Header": "./src/app/components/header/header.component.ts",
     "./Card": "./src/app/components/card/card.component.ts",
   },
 

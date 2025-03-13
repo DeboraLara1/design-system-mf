@@ -10,7 +10,6 @@
     "src/app/components/button/button.component.ts",
     "src/app/components/button-long/button-long.component.ts",
     "src/app/components/input/input.component.ts",
-    "src/app/components/header/header.component.ts",
     "src/app/components/card/card.component.ts",
     "src/app/components/modalnewcliente/modalnewcliente.component.ts",
     "src/app/components/modaldeletecliente/modaldeletecliente.component.ts",
