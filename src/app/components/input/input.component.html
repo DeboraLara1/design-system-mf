@@ -1,0 +1,11 @@
+<input
+    [type]="type"
+    [placeholder]="placeholderText"
+    [ngClass]="['custom-input', inputSize]"
+    [(ngModel)]="value"
+    (input)="onInputChange($event)"
+    (blur)="onTouched()"
+    [required]="required"
+    [value]="value"
+    [id]="label"
+  />

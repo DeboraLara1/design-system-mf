@@ -1,0 +1,16 @@
+.custom-input {
+  width: 90%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.custom-input.cardadd {
+  width: 336px;
+  height: 19px;
+  top: 431px;
+  left: 540px;
+  border-radius: 4px;
+}
+

@@ -1,0 +1,13 @@
+<div class="modal-overlay">
+  <div class="modal-container">
+    <div class="modal-header">
+      <p class="modal-text">Excluir cliente:</p>
+      <button class="cancel" (click)="closeModal()">X</button>
+    </div>
+    <p>
+      Tem certeza de que deseja excluir o cliente
+      <strong>{{ clientData.name }}</strong>?
+    </p>
+    <button class="modal-button" (click)="onConfirm()">Excluir cliente</button>
+  </div>
+</div>
